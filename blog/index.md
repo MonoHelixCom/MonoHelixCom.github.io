@@ -9,11 +9,15 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        {% assign author = site.data.people[post.author] %}
+
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ author.name }}</span></span>{% endif %}</p></span>
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+
+        {{ post.excerpt }}
       </li>
     {% endfor %}
   </ul>
