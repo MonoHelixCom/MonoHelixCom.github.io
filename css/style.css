@@ -1,0 +1,77 @@
+html, body {
+  height: 100%;
+  background: #FBFAF8;
+  color: black;
+  text-align: center;
+}
+
+h1, .h1 {
+  font-family: "proxima-nova", sans-serif;
+  font-weight: 100;
+}
+
+html, body {
+  font-family: "proxima-nova", sans-serif;
+  font-weight: 300;
+}
+
+.column-container {
+  width: 80%;
+  max-width: 1000px;
+  margin: 0 auto;
+  overflow: hidden;
+  height: 250%;
+  text-align: center;
+}
+
+.column {
+  width: 3%;
+  height: 100%;
+  margin: 0 2%;
+  display: inline-block;
+}
+
+.block {
+  border-radius: 5px;
+  margin-bottom: 150%;
+}
+
+.block-1x {
+  height: 10%;
+}
+
+.block-2x {
+  height: 15%;
+}
+
+.block-3x {
+  height: 20%;
+}
+
+.block-blueberry {
+  background: #008597;
+}
+
+.block-slate {
+  background: #2d3443;
+}
+
+.block-grape {
+  background: #DADADA;
+}
+
+.block-raspberry {
+  background: #D2D2D2;
+}
+
+.block-mango {
+  background: #ffcc00;
+}
+
+.block-orange {
+  background: #ABABAB;
+}
+
+.block-kiwi {
+  background: #A7A7A7;
+}
