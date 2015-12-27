@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+MonoHelix is a small company working within the area of software development, data analysis, consulting and publishing. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+This blog is mainly authored by people associated with MonoHelix as well as invited guests that write on similar topics.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+####Disclaimer
+
+The views shared on this site are personal and do not represent those of the people and organizations that may be associated in professional or personal capacity with the authors.
+
+The content on this blog is for informational purposes only. The owners of the blog are not liable for any omissions or errors in the information, or for any losses or damages from the display of the information.
