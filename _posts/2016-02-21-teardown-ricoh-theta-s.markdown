@@ -6,8 +6,6 @@ categories: vr camera
 author: paula
 ---
 
-
-
 ![ricoh_theta_s_00](/images/ricoh_theta_s_00.JPG)
 On the bottom of the Theta, there is a small glued piece under which you can find four screws.  
 
@@ -25,3 +23,5 @@ The two lenses are sitting on opposite sides.
 
 ![ricoh_theta_s_05](/images/ricoh_theta_s_05.JPG)
 And here's the second lens!
+
+For an even more detailed teardown, with disassembling up to the image sensor even, also read <a href="https://zavax.wordpress.com/2015/11/12/teardown-of-ricoh-theta-360-degree-spherical-panorama-camera/">this article</a>.
