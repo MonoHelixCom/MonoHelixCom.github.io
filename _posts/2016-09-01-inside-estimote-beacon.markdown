@@ -19,11 +19,11 @@ We just removed the bottom layer of tape and took the module out.
 
 ![estimote_beacon_01](/images/estimote_beacon_01.JPG)
 
-And here it is, powered by 4 (four) batteries!
+And here it is, powered by 4 (four) CR2477 batteries!
 
 ![estimote_beacon_02](/images/estimote_beacon_02.JPG)
 
-There's the Nordic Semiconductor, the BLE antenna, probably some sensors, and there's an LED that blinks when you're connected to the beacon from the Estimote app.
+There's the Nordic Semiconductor nRF51822, the BLE antenna, probably some sensors, and there's an LED that blinks when you're connected to the beacon from the Estimote app.
 
 ![estimote_beacon_03](/images/estimote_beacon_03.JPG)
 
