@@ -39,7 +39,7 @@ It was also dissapointing that the packaging includes 3 beacons but the Indoor L
 
 It is also confusing what type of beacons are actually needed for the Indoor Location Mapping, as the text documentation mentions only the Estimote Location beacons, however the marketing material for this functionality often shows the Estimote Proximity beacons, which might suggest that one should give those a try. 
 
-As for the Estimote Proximity beacons, they are a bit smaller and lack some of sensors, but have NFC. Here's how the Location and Proximity beacons look side by side.
+As for the Estimote Proximity beacons, they are a bit smaller and lack some of the sensors, but have NFC. Here's how the Location and Proximity beacons look side by side.
 
 ![estimote_beacon_06](/images/estimote_beacon_06.JPG)
 
