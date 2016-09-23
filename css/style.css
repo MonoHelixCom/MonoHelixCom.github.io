@@ -16,92 +16,11 @@ body {
     text-align: center;
 }
 
-.about-block {
-    overflow: hidden;
-	position: relative;
-    width: 100%;
-    padding-top: 60px;
-    padding-right: 30px;
-    padding-left: 30px;
-    color: inherit;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    text-align: center;
-}
-
-.usecase1-block {
-	overflow: hidden;
-    position: relative;
-    width: 100%;
-    padding: 60px 30px;
-    color: #000000;
-    background-color: #ccc;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    text-align: center;
-}
-
-.usecase2-block {
-	overflow: hidden;
-    position: relative;
-    width: 100%;
-    padding: 60px 30px;
-    padding-bottom: 0px;
-    color: #000000;
-    background-color: #EEE;
-    background-position: left;
-    background-size: cover;
-    background-repeat: no-repeat;
-    text-align: center;
-}
-
-.usecase3-block {
-	overflow: hidden;
-    position: relative;
-    width: 100%;
-    padding: 0px 30px;
-    padding-bottom: 30px;
-    color: #000000;
-    background-color: #EEE;
-    background-position: left;
-    background-size: cover;
-    background-repeat: no-repeat;
-    text-align: center;
-}
-
-.steps-block {
-	overflow: hidden;
-	position: relative;
-    width: 100%;
-    padding: 60px 30px;
-    color: inherit;
-    background-color: #ccc;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    text-align: center;
-}
-
-.pricing-block {
-	overflow: hidden;
-	position: relative;
-    width: 100%;
-    padding: 60px 30px;
-    color: inherit;
-    background-color: #EEE;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    text-align: center;
-}
-
 .aboutus-block {
 	overflow: hidden;
     position: relative;
     width: 100%;
-    padding: 60px 30px;
+    padding: 30px 30px;
     color: #000000;
     background-color: #ffffff;
     background-position: center;
